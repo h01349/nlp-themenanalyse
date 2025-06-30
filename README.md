@@ -4,12 +4,11 @@ Dieses Projekt analysiert eine Sammlung von Restaurantbewertungen aus dem Kaggle
 
 ## Projektstruktur
 
-nlp-themenanalyse/
-├── env/ ← environment.yml zur Reproduzierbarkeit
-├── notebooks/ ← Analyse-Notebooks
-├── data/ ← Beispiel-Datensätze (optional)
-├── output/ ← Visualisierungen, Modellergebnisse
-└── README.md
+- `env/` – Enthält die `environment.yml` zur Reproduzierbarkeit der Umgebung
+- `notebooks/` – Jupyter-Notebooks zur Datenanalyse und Themenmodellierung
+- `data/` – Beispielhafte oder anonymisierte Datensätze (optional)
+- `output/` – Ergebnisse wie Visualisierungen, Topics, Modellzusammenfassungen
+- `README.md` – Projektbeschreibung und Ausführungshinweise
 
 ## Anleitung
 
