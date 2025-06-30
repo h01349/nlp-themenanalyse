@@ -1,4 +1,5 @@
-# nlp-themenanalyse
+# nlp-themenanalyse (Anaconda Navigator 2.6.6/ JupyterLab 4.3.4 / Python 3.10.18)
+
 NLP-Techniken anwenden, um eine Textsammlung zu analysieren.
 Dieses Projekt analysiert eine Sammlung von Restaurantbewertungen aus dem Kaggle-Datensatz "Yelp Restaurant Reviews" mit Hilfe von NLP-Techniken (TF-IDF, Sentence-Embeddings, LDA, BERTopic).
 
