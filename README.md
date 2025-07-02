@@ -1,4 +1,4 @@
-# NLP-Themenanalyse (Anaconda Navigator 2.6.6 / JupyterLab 4.3.4 / Python 3.10.18)
+# NLP-Themenanalyse (Anaconda Navigator 2.6.6 / JupyterLab 4.3.4 (#4.4.4) / Python 3.10.18)
 
 Dieses Projekt analysiert eine Sammlung von Restaurantbewertungen aus dem Kaggle-Datensatz **„Yelp Restaurant Reviews“** mithilfe von NLP-Techniken wie TF-IDF, Sentence-Embeddings, LDA und BERTopic. Ziel ist die Extraktion häufig genannter Themen (vergleichbar mit kommunalen Beschwerden).
 
