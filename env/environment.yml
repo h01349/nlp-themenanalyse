@@ -1,5 +1,6 @@
 name: nlpProjekt
 channels:
+  - conda-forge
   - defaults
   - https://repo.anaconda.com/pkgs/main
   - https://repo.anaconda.com/pkgs/r
@@ -19,9 +20,9 @@ dependencies:
   - bottleneck=1.4.2=py310hc99e966_0
   - brotli-python=1.0.9=py310h5da7b33_9
   - bzip2=1.0.8=h2bbff1b_6
-  - ca-certificates=2025.2.25=haa95532_0
+  - ca-certificates=2025.6.15=h4c7d964_0
   - catalogue=2.0.10=py310haa95532_0
-  - certifi=2025.6.15=py310haa95532_0
+  - certifi=2025.6.15=pyhd8ed1ab_0
   - cffi=1.17.1=py310h827c3e9_1
   - charset-normalizer=3.3.2=pyhd3eb1b0_0
   - click=8.1.8=py310haa95532_0
@@ -52,6 +53,7 @@ dependencies:
   - intel-openmp=2023.1.0=h59b6b97_46320
   - ipykernel=6.29.5=py310haa95532_1
   - ipython=8.30.0=py310haa95532_0
+  - ipywidgets=8.1.7=pyhd8ed1ab_0
   - jedi=0.19.2=py310haa95532_0
   - jinja2=3.1.6=py310haa95532_0
   - joblib=1.4.2=py310haa95532_0
@@ -68,6 +70,7 @@ dependencies:
   - jupyterlab=4.3.4=py310haa95532_0
   - jupyterlab_pygments=0.3.0=py310haa95532_0
   - jupyterlab_server=2.27.3=py310haa95532_0
+  - jupyterlab_widgets=3.0.15=pyhd8ed1ab_0
   - kiwisolver=1.4.8=py310h5da7b33_0
   - krb5=1.20.1=h5b6d351_0
   - langcodes=3.3.0=pyhd3eb1b0_0
@@ -103,7 +106,7 @@ dependencies:
   - numpy=1.26.4=py310h055cbcc_0
   - numpy-base=1.26.4=py310h65a83cf_0
   - openjpeg=2.5.2=h9b5d1b5_1
-  - openssl=3.0.16=h3f729d1_0
+  - openssl=3.5.1=h725018a_0
   - overrides=7.4.0=py310haa95532_0
   - packaging=24.2=py310haa95532_0
   - pandas=2.2.3=py310h5da7b33_0
@@ -182,16 +185,19 @@ dependencies:
   - typing-inspection=0.4.0=py310haa95532_0
   - typing_extensions=4.12.2=py310haa95532_0
   - tzdata=2025b=h04d1e81_0
+  - ucrt=10.0.22621.0=h57928b3_1
   - unicodedata2=15.1.0=py310h827c3e9_1
   - urllib3=2.3.0=py310haa95532_0
   - vc=14.42=haa95532_5
-  - vs2015_runtime=14.42.34433=hbfb602d_5
+  - vc14_runtime=14.44.35208=h818238b_26
+  - vs2015_runtime=14.44.35208=h38c0c73_26
   - wasabi=0.9.1=py310haa95532_0
   - wcwidth=0.2.5=pyhd3eb1b0_0
   - weasel=0.3.4=py310haa95532_0
   - webencodings=0.5.1=py310haa95532_1
   - websocket-client=1.8.0=py310haa95532_0
   - wheel=0.45.1=py310haa95532_0
+  - widgetsnbextension=4.0.14=pyhd8ed1ab_0
   - win_inet_pton=1.1.0=py310haa95532_0
   - winpty=0.4.3=4
   - xz=5.6.4=h4754444_1
@@ -220,4 +226,3 @@ dependencies:
       - torch==2.7.1
       - transformers==4.53.0
       - umap-learn==0.5.7
-prefix: C:\Users\h0\anaconda3\envs\nlpProjekt
