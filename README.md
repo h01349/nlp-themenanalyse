@@ -18,7 +18,7 @@ Dieses Projekt analysiert eine Sammlung von Restaurantbewertungen aus dem Kaggle
 
 ## Datenquelle
 
-Datensatz: [Yelp Restaurant Reviews – Kaggle](https://www.kaggle.com/datasets/farukalam/yelp-restaurant-reviews)
+Datensatz: [Yelp Restaurant Reviews – Kaggle](https://www.kaggle.com/datasets/farukalam/yelp-restaurant-reviews) -> (YelpRestaurantReviews.csv)
 
 ---
 
