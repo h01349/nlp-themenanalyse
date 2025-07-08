@@ -13,18 +13,18 @@ Eine plattformübergreifende Testung war jedoch nicht Bestandteil dieses Projekt
 
 ## Anleitung zur Ausführung
 
-1. Umgebung erstellen:
+**1. Umgebung erstellen:**
 Die Analyseumgebung basiert auf der Datei `environment.yml`, die sich im Verzeichnis `env/` befindet.
 Sie kann entweder über den Anaconda Navigator (GUI) oder das Terminal eingerichtet werden:
 - Anaconda Navigator: Environment importieren über „Environments → Import“ (dabei die `environment.yml` aus dem lokalen Verzeichnis `env/` auswählen)
 - Terminal: `conda env create -f env/environment.yml`
 
-2. JupyterLab starten:
+**2. JupyterLab starten:**
 Nach Erstellung und Aktivierung der Umgebung kann JupyterLab auf zwei Arten gestartet werden:
 - Anaconda Navigator: Über „Home → JupyterLab → Launch“
 - Terminal: Aktivieren Sie zunächst die Umgebung mit `conda activate <env-name>` und starten Sie anschließend JupyterLab mit `jupyter lab`.
 
-3. Notebooks ausführen:
+**3. Notebooks ausführen:**
 Die Analyse besteht aus fünf aufeinander aufbauenden Notebooks im Verzeichnis `notebooks/`.
 Diese sollten in numerischer Reihenfolge (001 bis 005) geöffnet und schrittweise ausgeführt werden.
 Die Ergebnisse bauen jeweils auf den vorherigen Schritten auf.
